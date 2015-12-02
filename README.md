@@ -1,2 +1,2 @@
 # test_repository
-test
+This is a repository readme file for a test purpose
